@@ -1,38 +1,25 @@
 package org.leetcode.nodes;
 
+import java.util.List;
+
+/**
+ * @Auther: hujiangping
+ * @Date: 2023/4/21 21:23
+ * @Description: Node
+ * @Version 1.0.0
+ */
 public class Node {
-    private String data;
-    private Node next;
+    public int val;
+    public List<Node> children;
 
-    public Node(String data){
-        this.data = data;
+    public Node() {}
+
+    public Node(int _val) {
+        val = _val;
     }
 
-    public void setData(String data) {
-        this.data = data;
+    public Node(int _val, List<Node> _children) {
+        val = _val;
+        children = _children;
     }
-
-    public void setNext(Node next) {
-        this.next = next;
-    }
-
-    public Node getNext() {
-        return next;
-    }
-
-    public String getData() {
-        return data;
-    }
-
-    public static void main(String[] args){
-        Node root = new Node("1");
-        Node n1 = new Node("2");
-        Node n2 = new Node("3");
-        root.setNext(n1);
-        n1.setNext(n2);
-        while (root != null){
-            System.out.println(root.getData());
-            root = root.getNext();
-        }
-    }
-}
+};
