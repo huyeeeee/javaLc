@@ -18,6 +18,17 @@ public class _23_合并K个升序链表 {
         return res.next;
     }
 
+    public ListNode mergeKLists(ListNode[] lists) {
+        return merge(lists,0,lists.length - 1);
+    }
+
+    public ListNode merge(ListNode[] lists, int s,int e){
+        if (s == e) return lists[s];
+        if (s > e) return null;
+        int mid = (s + e) >> 1;
+        return mergeTwoList(merge(lists,s,mid),merge(lists,mid+1,e));
+    }
+
     public ListNode mergeTwoList(ListNode l1,ListNode l2){
         ListNode result = new ListNode(-1);
         ListNode cur = result;
