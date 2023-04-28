@@ -20,5 +20,14 @@ public class NodeUtils {
         return head.next;
     }
 
+    public static ListNode buildNode(int[] values){
+        ListNode head = new ListNode(-1);
+        ListNode cur = head;
+        for (int value : values) {
+            cur.next = new ListNode(value);
+            cur = cur.next;
+        }
+        return head.next;
+    }
 
 }
