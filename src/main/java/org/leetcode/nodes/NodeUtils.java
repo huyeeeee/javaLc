@@ -1,6 +1,10 @@
 package org.leetcode.nodes;
 
+import org.apache.commons.collections.CollectionUtils;
+
+import java.util.ArrayDeque;
 import java.util.List;
+import java.util.Queue;
 
 /**
  * @Auther: hujiangping
@@ -28,6 +32,31 @@ public class NodeUtils {
             cur = cur.next;
         }
         return head.next;
+    }
+
+    public static TreeNode buildTreeNode(List<Integer> values){
+        if (CollectionUtils.isEmpty(values)) return null;
+        TreeNode root = new TreeNode(values.get(0));
+        Queue<TreeNode> q = new ArrayDeque<>();
+        q.add(root);
+        int count = 1;
+        Integer integer;
+        while (!q.isEmpty()){
+            TreeNode poll = q.poll();
+            if (count >= values.size()) return root;
+            integer = values.get(count++);
+            if (integer != null) {
+                poll.left = new TreeNode(integer);
+                q.add(poll.left);
+            }
+            if (count >= values.size()) return root;
+            integer = values.get(count++);
+            if (integer != null){
+                poll.right = new TreeNode(integer);
+                q.add(poll.right);
+            }
+        }
+        return root;
     }
 
 }

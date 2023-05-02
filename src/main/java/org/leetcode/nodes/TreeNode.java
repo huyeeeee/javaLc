@@ -1,10 +1,13 @@
 package org.leetcode.nodes;
 
-public class TreeNode{
+import com.google.common.collect.Lists;
+
+public class TreeNode {
     public int val;
     public TreeNode left;
     public TreeNode right;
-    public TreeNode(int val){
+
+    public TreeNode(int val) {
         this.val = val;
     }
 
@@ -12,5 +15,14 @@ public class TreeNode{
         this.val = val;
         this.left = left;
         this.right = right;
+    }
+
+    @Override
+    public String toString() {
+        return this.val + "," + left + right;
+
+    }
+
+    public static void main(String[] args) {
     }
 }

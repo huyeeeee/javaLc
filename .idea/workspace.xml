@@ -5,20 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74d5960e-f251-459b-bc53-553a577b7c57" name="Changes" comment="func(*): 提交题目">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_001_100/_5_最长回文子串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_001_100/_61_旋转链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_001_100/_82_删除排序链表中的重复元素II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_001_100/_83_删除链表中的重复元素.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_001_100/_92_链表反转II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_108_将有序数组转换为二叉搜索树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_136_只出现一次的数字.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_141_环形链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_142_环形链表II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_201_300/_202_快乐数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_201_300/_258_各位相加.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_201_300/_287_寻找重复数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_001_100/_25_K个一组反转链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_001_100/_86_分隔链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_109_有序链表转换为二叉排序树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_114_二叉树展开为链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_116_填充每个节点的下一个右侧节点指针.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_117_填充每个节点的下一个右侧节点指针II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_143_重排链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_145_二叉树的后序遍历.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_201_300/_203_移除链表元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_201_300/_234_回文链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_201_300/_237_删除链表元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_800_900/_876_链表的中间节点.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/leetcode/nodes/NodeUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/nodes/NodeUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/leetcode/nodes/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/nodes/TreeNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,13 +81,13 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._92_链表反转II">
-    <configuration name="_206_链表反转" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.leetcode.items._201_300._206_链表反转" />
+  <component name="RunManager" selected="Application._145_二叉树的后序遍历">
+    <configuration name="_114_二叉树展开为链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.leetcode.items._101_200._114_二叉树展开为链表" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.leetcode.items._201_300.*" />
+          <option name="PATTERN" value="org.leetcode.items._101_200.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_5_最长回文子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.leetcode.items._001_100._5_最长回文子串" />
+    <configuration name="_116_填充每个节点的下一个右侧节点指针" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.leetcode.items._101_200._116_填充每个节点的下一个右侧节点指针" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.leetcode.items._001_100.*" />
+          <option name="PATTERN" value="org.leetcode.items._101_200.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_61_旋转链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.leetcode.items._001_100._61_旋转链表" />
+    <configuration name="_143_重排链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.leetcode.items._101_200._143_重排链表" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.leetcode.items._001_100.*" />
+          <option name="PATTERN" value="org.leetcode.items._101_200.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_82_删除排序链表中的重复元素II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.leetcode.items._001_100._82_删除排序链表中的重复元素II" />
+    <configuration name="_145_二叉树的后序遍历" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.leetcode.items._101_200._145_二叉树的后序遍历" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.leetcode.items._001_100.*" />
+          <option name="PATTERN" value="org.leetcode.items._101_200.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,8 +134,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_92_链表反转II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.leetcode.items._001_100._92_链表反转II" />
+    <configuration name="_25_K个一组反转链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.leetcode.items._001_100._25_K个一组反转链表" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
@@ -147,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._92_链表反转II" />
-        <item itemvalue="Application._206_链表反转" />
-        <item itemvalue="Application._82_删除排序链表中的重复元素II" />
-        <item itemvalue="Application._5_最长回文子串" />
-        <item itemvalue="Application._61_旋转链表" />
+        <item itemvalue="Application._145_二叉树的后序遍历" />
+        <item itemvalue="Application._143_重排链表" />
+        <item itemvalue="Application._116_填充每个节点的下一个右侧节点指针" />
+        <item itemvalue="Application._25_K个一组反转链表" />
+        <item itemvalue="Application._114_二叉树展开为链表" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +166,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682076911200</updated>
       <workItem from="1682076912202" duration="5674000" />
-      <workItem from="1682253655409" duration="10585000" />
+      <workItem from="1682253655409" duration="28942000" />
     </task>
     <task id="LOCAL-00001" summary="func(*): 创建项目">
       <created>1682077092575</created>
@@ -187,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682253888216</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="func(*): 提交题目">
+      <created>1682700853583</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682700853583</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,6 +274,96 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/items/_001_100/_92_链表反转II.java</url>
           <line>25</line>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/items/_800_900/_876_链表的中间节点.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/items/_800_900/_876_链表的中间节点.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/items/_201_300/_234_回文链表.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/items/_201_300/_203_移除链表元素.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/items/_201_300/_203_移除链表元素.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/nodes/NodeUtils.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/nodes/TreeNode.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/items/_001_100/_25_K个一组反转链表.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/items/_001_100/_25_K个一组反转链表.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_116_填充每个节点的下一个右侧节点指针.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_116_填充每个节点的下一个右侧节点指针.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_116_填充每个节点的下一个右侧节点指针.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_116_填充每个节点的下一个右侧节点指针.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_143_重排链表.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_143_重排链表.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_145_二叉树的后序遍历.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_145_二叉树的后序遍历.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_145_二叉树的后序遍历.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="64" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
