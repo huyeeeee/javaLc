@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74d5960e-f251-459b-bc53-553a577b7c57" name="Changes" comment="func(*): 提交题目">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_001_100/_53_最大子数组和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_001_100/_62_不同路径.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_001_100/_63_不同路径II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_001_100/_64_最小路径和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_001_100/_70_爬楼梯.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_121_买股票的最佳时机.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_146_LRU缓存.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_147_对链表进行插入排序.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_152_乘积最大子数组.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_160_相交链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_1100_1200/_1137_第N个泰波那契数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_501_600/_509_斐波那契数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_700_800/_746_使用最小花费爬楼梯.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_001_100/_54_螺旋矩阵.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_001_100/_59_螺旋矩阵II.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -164,7 +153,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682076911200</updated>
       <workItem from="1682076912202" duration="5674000" />
-      <workItem from="1682253655409" duration="41306000" />
+      <workItem from="1682253655409" duration="44124000" />
     </task>
     <task id="LOCAL-00001" summary="func(*): 创建项目">
       <created>1682077092575</created>
@@ -201,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683043348037</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="func(*): 提交题目">
+      <created>1683105422470</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683105422470</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
