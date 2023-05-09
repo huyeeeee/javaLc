@@ -23,22 +23,21 @@ public class _912_排序数组 {
             }
         }
         if (isAllEqual) return;
-        int base = s;
         int i = s;
         int j = e;
         while (i != j){
-            while (i < j && n[j] >= n[base]){
+            while (i < j && n[j] >= n[s]){
                 j--;
             }
-            while (i < j && n[i] <= n[base]){
+            while (i < j && n[i] <= n[s]){
                 i++;
             }
             int t = n[i];
             n[i] = n[j];
             n[j] = t;
         }
-        int t = n[base];
-        n[base] = n[i];
+        int t = n[s];
+        n[s] = n[i];
         n[i] = t;
         quickSort(n,s,i-1);
         quickSort(n,i+1,e);

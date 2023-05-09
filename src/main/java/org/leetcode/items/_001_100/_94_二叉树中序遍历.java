@@ -16,7 +16,7 @@ public class _94_二叉树中序遍历 {
     List<Integer> list = new ArrayList<>();
     public List<Integer> inorderTraversal1(TreeNode root) {
         if (root == null) return list;
-        if (root.left != null) inorderTraversal1(root.left);
+        inorderTraversal1(root.left);
         list.add(root.val);
         inorderTraversal1(root.right);
         return list;
