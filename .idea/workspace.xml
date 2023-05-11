@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74d5960e-f251-459b-bc53-553a577b7c57" name="Changes" comment="func(*): 提交题目">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_001_100/_16_最接近的三数之和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_001_100/_22_括号生成.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_199_二叉树的右视图.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_900_1000/_912_排序数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_900_1000/_912_排序数组.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,22 +70,9 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._746_使用最小花费爬楼梯">
+  <component name="RunManager" selected="Application._22_括号生成">
     <configuration name="_121_买股票的最佳时机" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.leetcode.items._101_200._121_买股票的最佳时机" />
-      <module name="java-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.leetcode.items._101_200.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_147_对链表进行插入排序" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="org.leetcode.items._101_200._147_对链表进行插入排序" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
@@ -100,6 +90,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.leetcode.items._101_200.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_22_括号生成" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.leetcode.items._001_100._22_括号生成" />
+      <module name="java-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.leetcode.items._001_100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._22_括号生成" />
         <item itemvalue="Application._746_使用最小花费爬楼梯" />
         <item itemvalue="Application._152_乘积最大子数组" />
         <item itemvalue="Application._121_买股票的最佳时机" />
         <item itemvalue="Application._53_最大子数组和" />
-        <item itemvalue="Application._147_对链表进行插入排序" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +155,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682076911200</updated>
       <workItem from="1682076912202" duration="5674000" />
-      <workItem from="1682253655409" duration="46839000" />
+      <workItem from="1682253655409" duration="50977000" />
     </task>
     <task id="LOCAL-00001" summary="func(*): 创建项目">
       <created>1682077092575</created>
@@ -203,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683291342721</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="func(*): 提交题目">
+      <created>1683640333787</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1683640333787</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -391,6 +401,24 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/items/_001_100/_53_最大子数组和.java</url>
           <line>17</line>
           <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/items/_001_100/_22_括号生成.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/items/_001_100/_22_括号生成.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/items/_001_100/_22_括号生成.java</url>
+          <line>68</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="84" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
