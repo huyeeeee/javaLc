@@ -3,7 +3,7 @@ package org.leetcode.items._101_200;
 import org.leetcode.nodes.ListNode;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/4/28 12:18
  * @Description: _142_环形链表II
  * @Version 1.0.0

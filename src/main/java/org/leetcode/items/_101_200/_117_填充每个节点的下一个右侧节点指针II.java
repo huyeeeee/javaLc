@@ -4,7 +4,7 @@ import java.util.ArrayDeque;
 import java.util.Queue;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/5/2 15:08
  * @Description: _117_填充每个节点的下一个右侧节点指针II
  * @Version 1.0.0

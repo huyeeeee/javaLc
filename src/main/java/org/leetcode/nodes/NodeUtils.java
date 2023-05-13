@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Queue;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/4/21 20:04
  * @Description: NodeUtils
  * @Version 1.0.0

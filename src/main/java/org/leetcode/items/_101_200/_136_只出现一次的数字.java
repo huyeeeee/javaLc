@@ -1,7 +1,7 @@
 package org.leetcode.items._101_200;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/4/28 12:41
  * @Description: _136_只出现一次的数字
  * @Version 1.0.0

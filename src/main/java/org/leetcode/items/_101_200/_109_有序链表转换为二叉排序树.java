@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Stack;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/4/29 01:26
  * @Description: _109_有序链表转换为二叉排序树
  * @Version 1.0.0

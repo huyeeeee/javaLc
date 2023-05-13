@@ -1,7 +1,7 @@
 package org.leetcode.items._101_200;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/5/3 16:01
  * @Description: _121_买股票的最佳时机
  * @Version 1.0.0

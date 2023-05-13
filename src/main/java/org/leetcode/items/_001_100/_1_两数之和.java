@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/4/21 20:22
  * @Description: _1
  * @Version 1.0.0

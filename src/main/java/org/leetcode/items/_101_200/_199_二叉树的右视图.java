@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Queue;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/5/10 21:53
  * @Description: _199_二叉树的右视图
  * @Version 1.0.0

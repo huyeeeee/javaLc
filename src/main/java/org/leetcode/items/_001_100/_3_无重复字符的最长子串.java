@@ -4,7 +4,7 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/4/21 21:16
  * @Description: _3_无重复字符的最长子串
  * @Version 1.0.0

@@ -1,7 +1,7 @@
 package org.leetcode.items._001_100;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/5/9 21:48
  * @Description: _96_不同的二叉搜索树
  * @Version 1.0.0

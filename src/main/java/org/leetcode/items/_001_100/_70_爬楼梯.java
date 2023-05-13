@@ -1,7 +1,7 @@
 package org.leetcode.items._001_100;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/5/3 16:57
  * @Description: _70_爬楼梯
  * @Version 1.0.0

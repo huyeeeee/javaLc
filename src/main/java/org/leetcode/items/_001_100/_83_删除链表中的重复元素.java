@@ -3,7 +3,7 @@ package org.leetcode.items._001_100;
 import org.leetcode.nodes.ListNode;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/4/28 09:56
  * @Description: _83_删除链表中的重复元素
  * @Version 1.0.0

@@ -8,7 +8,7 @@ import java.util.HashSet;
 import java.util.List;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/5/9 21:51
  * @Description: _98_验证二叉搜索树
  * @Version 1.0.0

@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Stack;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/5/2 20:23
  * @Description: _145_二叉树的后序遍历
  * @Version 1.0.0

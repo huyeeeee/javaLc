@@ -3,7 +3,7 @@ package org.leetcode.items._001_100;
 import org.leetcode.nodes.ListNode;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/4/23 20:44
  * @Description: _24_两两交换链表中的节点
  * @Version 1.0.0

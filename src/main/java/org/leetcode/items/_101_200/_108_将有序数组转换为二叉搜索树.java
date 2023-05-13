@@ -3,7 +3,7 @@ package org.leetcode.items._101_200;
 import org.leetcode.nodes.TreeNode;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/4/29 00:53
  * @Description: _108_将有序数组转换为二叉搜索树
  * @Version 1.0.0

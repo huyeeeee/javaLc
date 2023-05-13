@@ -1,7 +1,7 @@
 package org.leetcode.items._101_200;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/5/3 16:06
  * @Description: _152_乘积最大子数组
  * @Version 1.0.0

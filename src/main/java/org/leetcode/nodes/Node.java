@@ -3,7 +3,7 @@ package org.leetcode.nodes;
 import java.util.List;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/4/21 21:23
  * @Description: Node
  * @Version 1.0.0

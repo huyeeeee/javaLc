@@ -1,7 +1,7 @@
 package org.leetcode.items._201_300;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/4/28 12:33
  * @Description: _287_寻找重复数
  * @Version 1.0.0

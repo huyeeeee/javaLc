@@ -1,7 +1,7 @@
 package org.leetcode.items._001_100;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/5/4 15:26
  * @Description: _59_螺旋矩阵II
  * @Version 1.0.0

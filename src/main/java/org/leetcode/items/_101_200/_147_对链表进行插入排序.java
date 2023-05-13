@@ -7,7 +7,7 @@ import java.util.List;
 
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/5/3 14:17
  * @Description: _147_对链表进行插入排序
  * @Version 1.0.0

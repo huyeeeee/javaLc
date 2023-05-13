@@ -7,7 +7,7 @@ import java.util.ArrayDeque;
 import java.util.List;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/5/2 15:54
  * @Description: _143_重排链表
  * @Version 1.0.0

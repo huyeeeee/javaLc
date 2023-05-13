@@ -3,7 +3,7 @@ package org.leetcode.items._201_300;
 import org.leetcode.nodes.ListNode;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/4/30 15:46
  * @Description: _237_删除链表元素
  * @Version 1.0.0

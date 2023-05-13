@@ -4,7 +4,7 @@ import org.leetcode.nodes.ListNode;
 import org.leetcode.nodes.NodeUtils;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/4/28 20:08
  * @Description: _92_链表反转II
  * @Version 1.0.0

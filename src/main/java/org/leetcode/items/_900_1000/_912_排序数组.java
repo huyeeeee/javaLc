@@ -1,7 +1,7 @@
 package org.leetcode.items._900_1000;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/4/23 20:42
  * @Description: _912_排序数组
  * @Version 1.0.0

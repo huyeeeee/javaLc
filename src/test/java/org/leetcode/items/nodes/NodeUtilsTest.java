@@ -9,7 +9,7 @@ import org.leetcode.nodes.NodeUtils;
 import java.util.Collections;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/4/21 20:09
  * @Description: NodeUtilsTest
  * @Version 1.0.0

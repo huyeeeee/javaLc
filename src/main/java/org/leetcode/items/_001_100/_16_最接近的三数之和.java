@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Collections;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/5/10 22:03
  * @Description: _16_最接近的三数之和
  * @Version 1.0.0

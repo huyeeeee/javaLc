@@ -6,7 +6,7 @@ import org.leetcode.nodes.NodeUtils;
 import java.util.HashMap;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/4/28 09:58
  * @Description: _82_删除排序链表中的重复元素II
  * @Version 1.0.0

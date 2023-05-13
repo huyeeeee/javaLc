@@ -4,7 +4,7 @@ import org.leetcode.nodes.ListNode;
 import org.leetcode.nodes.NodeUtils;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/4/30 15:47
  * @Description: _203_移除链表元素
  * @Version 1.0.0

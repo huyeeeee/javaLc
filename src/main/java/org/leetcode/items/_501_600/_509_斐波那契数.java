@@ -1,7 +1,7 @@
 package org.leetcode.items._501_600;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/5/3 16:59
  * @Description: _509_斐波那契数
  * @Version 1.0.0

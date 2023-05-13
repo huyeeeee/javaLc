@@ -1,7 +1,7 @@
 package org.leetcode.items._1100_1200;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/5/3 17:03
  * @Description: _1137_第N个泰波那契数
  * @Version 1.0.0

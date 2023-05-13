@@ -7,7 +7,7 @@ import java.util.Stack;
 import org.leetcode.nodes.Node;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/4/21 21:22
  * @Description: _589_N叉树前序遍历
  * @Version 1.0.0

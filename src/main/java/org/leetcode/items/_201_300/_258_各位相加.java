@@ -1,7 +1,7 @@
 package org.leetcode.items._201_300;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/4/28 11:49
  * @Description: _258_各位相加
  * @Version 1.0.0

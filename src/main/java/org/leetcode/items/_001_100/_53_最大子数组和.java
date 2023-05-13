@@ -1,7 +1,7 @@
 package org.leetcode.items._001_100;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/5/3 15:45
  * @Description: _53_最大子数组和
  * @Version 1.0.0

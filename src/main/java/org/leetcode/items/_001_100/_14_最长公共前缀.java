@@ -1,7 +1,7 @@
 package org.leetcode.items._001_100;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/5/11 21:00
  * @Description: _14_最长公共前缀
  * @Version 1.0.0

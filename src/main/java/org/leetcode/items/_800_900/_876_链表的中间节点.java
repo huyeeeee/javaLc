@@ -4,7 +4,7 @@ import org.leetcode.nodes.ListNode;
 import org.leetcode.nodes.NodeUtils;
 
 /**
- * @Auther: hujiangping
+ * @Author: hujiangping
  * @Date: 2023/4/30 15:16
  * @Description: _876_链表的中间节点
  * @Version 1.0.0
