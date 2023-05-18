@@ -10,7 +10,7 @@ import org.leetcode.nodes.NodeUtils;
  * @Version 1.0.0
  */
 public class _92_链表反转II {
-    public ListNode reverseBetween(ListNode head, int left, int right) {
+    public ListNode reverseBetween1(ListNode head, int left, int right) {
         if(head == null || head.next == null || left == right) return head;
         ListNode curLeft = head;
         ListNode curRight = head;
@@ -50,6 +50,29 @@ public class _92_链表反转II {
             cur = next;
         }
         return pre;
+    }
+
+    public ListNode reverseBetween(ListNode head, int left, int right) {
+        if (head == null || head.next == null || left >= right) return head;
+        ListNode dummy = new ListNode(-1);
+        ListNode pre = dummy;
+        pre.next = head;
+        ListNode cur = head;
+        while (left > 1){
+            cur = cur.next;
+            pre = pre.next;
+            left -= 1;
+            right -= 1;
+        }
+        while (right > 1){
+            ListNode dn = pre.next;
+            ListNode cn = cur.next;
+            pre.next = cn;
+            cur.next = cn.next;
+            cn.next = dn;
+            right -= 1;
+        }
+        return dummy.next;
     }
 
     public static void main(String[] args) {
