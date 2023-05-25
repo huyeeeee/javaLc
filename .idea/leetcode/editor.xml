@@ -3,6 +3,17 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/../lc/leetcode/editor/cn/BalancedBinaryTree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../lc/leetcode/editor/cn/doc/content/BalancedBinaryTree.md" />
+              <option name="frontendQuestionId" value="leetcode.cn110" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../lc/leetcode/editor/cn/BalancedBinaryTree.java" />
+              <option name="titleSlug" value="balanced-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/25/mq5jtns916qcgtp4w6mj4nqw0000gn/T/leetcode/editor/cn/[1]两数之和.java">
           <value>
             <LeetcodeEditor>
