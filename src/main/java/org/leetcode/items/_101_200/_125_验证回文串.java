@@ -8,6 +8,7 @@ package org.leetcode.items._101_200;
  */
 public class _125_验证回文串 {
     public boolean isPalindrome(String s) {
+        s = s.toLowerCase();
         if (s.length() < 2) return true;
         int l = 0;
         int r = s.length() - 1;
@@ -22,9 +23,6 @@ public class _125_验证回文串 {
                 r--;
                 continue;
             }
-
-            if (Character.isUpperCase(rc)) rc = Character.toLowerCase(rc);
-            if (Character.isUpperCase(lc)) lc = Character.toLowerCase(lc);
             if(rc != lc){
                 return false;
             }
