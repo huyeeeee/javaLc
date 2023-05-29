@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74d5960e-f251-459b-bc53-553a577b7c57" name="Changes" comment="func(*): 提交题目">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_001_100/_100_相同的树.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_001_100/_99_恢复二叉搜索树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_118_杨辉三角.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_119_杨辉三角II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_120_三角形最小路径和.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_114_二叉树展开为链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_114_二叉树展开为链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_121_买股票的最佳时机.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_121_买股票的最佳时机.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_125_验证回文串.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_125_验证回文串.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_128_最长连续序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_128_最长连续序列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_301_400/_300_最长递增子序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_201_300/_300_最长递增子序列.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +66,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -172,7 +164,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682076911200</updated>
       <workItem from="1682076912202" duration="5674000" />
-      <workItem from="1682253655409" duration="81745000" />
+      <workItem from="1682253655409" duration="82058000" />
     </task>
     <task id="LOCAL-00001" summary="func(*): 创建项目">
       <created>1682077092575</created>
@@ -293,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685019738071</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="func(*): 提交题目">
+      <created>1685333286409</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1685333286409</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
