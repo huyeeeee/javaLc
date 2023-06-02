@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74d5960e-f251-459b-bc53-553a577b7c57" name="Changes" comment="func(*): 提交题目">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_001_100/_90_子集.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_001_100/_97_交错字符串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_148_排序链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_150_逆波兰表达式.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_151_反转字符串中的单词.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_153_寻找旋转排序数组中的最小值.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_101_200/_155_最小栈.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_5_25,_20_56_[Changes]/shelved.patch" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +43,6 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="1f5608c0-1260-4eb6-af68-d2c1bcadf7e4" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -174,7 +170,7 @@
       <workItem from="1682076912202" duration="5674000" />
       <workItem from="1682253655409" duration="103668000" />
       <workItem from="1685496722347" duration="504000" />
-      <workItem from="1685500405719" duration="1422000" />
+      <workItem from="1685500405719" duration="2191000" />
     </task>
     <task id="LOCAL-00001" summary="func(*): 创建项目">
       <created>1682077092575</created>
@@ -337,7 +333,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685432880982</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="func(*): 提交题目">
+      <created>1685669266880</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1685669266880</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
