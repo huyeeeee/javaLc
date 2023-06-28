@@ -7,36 +7,47 @@ package org.leetcode.items._001_100;
  * @Version 1.0.0
  */
 public class _8_字符串转换整数 {
-    public static int myAtoi(String s) {
+    public int myAtoi(String s) {
         StringBuilder sb = new StringBuilder();
-        boolean isNeg = false;
-        boolean isDone = false;
-        for (int i = 0; i < s.length(); i++) {
-            char c = s.charAt(i);
-            if (!isDone){
-                if ((c >= '0' && c <= '9') || c == '-'){
-                    if (c == '-'){
-                        if (!isNeg){
-                            isNeg = true;
-                        }else {
-                            break;
-                        }
-                    }else {
-                        sb.append(c);
-                    }
-                }else {
-                    if (sb.length() > 0){
-                        isDone = true;
-                    }
+        boolean isPositive = true;
+        boolean isFirst = true;
+        boolean isStartZero = true;
+        for (char c : s.trim().toCharArray()) {
+            if (sb.length() > 12) {
+                break;
+            }
+            if (isFirst && isPositive) {
+                isFirst = false;
+                if (c == '-') {
+                    isPositive = false;
+                    continue;
+                } else if (c == '+') {
+                    continue;
                 }
             }
+            if (c >= '0' && c <= '9') {
+                if (c != '0') {
+                    isStartZero = false;
+                }
+                if (isStartZero && c == '0') continue;
+                sb.append(c);
+            } else {
+                break;
+            }
+            isFirst = false;
         }
-        if (sb.length() == 0) return 0;
-        int i = Integer.parseInt(sb.toString());
-        return isNeg ? -i : i;
-    }
-
-    public static void main(String[] args) {
-        System.out.println(myAtoi("with words 4193"));
+        if (sb.toString().length() == 0) {
+            return 0;
+        }
+        long l = Long.parseLong(sb.toString());
+        if (!isPositive) {
+            l = -l;
+        }
+        if (l > Integer.MAX_VALUE) {
+            return Integer.MAX_VALUE;
+        } else if (l < Integer.MIN_VALUE) {
+            return Integer.MIN_VALUE;
+        }
+        return (int) l;
     }
 }
