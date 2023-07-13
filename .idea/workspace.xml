@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74d5960e-f251-459b-bc53-553a577b7c57" name="Changes" comment="func(*): 提交题目">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_001_100/_50_Pow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_001_100/_79_单词搜索.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_001_100/_7_整数反转.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_001_100/_9_回文数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_001_100/_8_字符串转换整数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_001_100/_8_字符串转换整数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/items/_1000_1100/_1047_删除字符串中的所有相邻重复项.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +80,20 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._289_生命周期">
+  <component name="RunManager" selected="Application._1047_删除字符串中的所有相邻重复项">
+    <configuration name="_1047_删除字符串中的所有相邻重复项" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.leetcode.items._1000_1100._1047_删除字符串中的所有相邻重复项" />
+      <module name="java-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.leetcode.items._1000_1100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="_131_分割回文串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.leetcode.items._101_200._131_分割回文串" />
       <module name="java-study" />
@@ -138,26 +146,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_78_子集" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.leetcode.items._001_100._78_子集" />
-      <module name="java-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.leetcode.items._001_100.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._1047_删除字符串中的所有相邻重复项" />
         <item itemvalue="Application._289_生命周期" />
         <item itemvalue="Application._179_最大数" />
         <item itemvalue="Application._168_EXCEL列表名称" />
         <item itemvalue="Application._131_分割回文串" />
-        <item itemvalue="Application._78_子集" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +167,7 @@
       <workItem from="1682076912202" duration="5674000" />
       <workItem from="1682253655409" duration="103668000" />
       <workItem from="1685496722347" duration="504000" />
-      <workItem from="1685500405719" duration="14313000" />
+      <workItem from="1685500405719" duration="15217000" />
     </task>
     <task id="LOCAL-00001" summary="func(*): 创建项目">
       <created>1682077092575</created>
@@ -391,7 +386,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687787179912</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="func(*): 提交题目">
+      <created>1687966359819</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1687966359819</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
