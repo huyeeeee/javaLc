@@ -1,9 +1,7 @@
 package org.leetcode.items._101_200;
 
-import org.leetcode.nodes.ListNode;
-import org.leetcode.nodes.NodeUtils;
-
-import java.util.List;
+import org.nodes.ListNode;
+import org.nodes.NodeUtils;
 
 
 /**

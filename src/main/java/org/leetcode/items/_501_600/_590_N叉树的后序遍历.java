@@ -1,6 +1,6 @@
 package org.leetcode.items._501_600;
 
-import org.leetcode.nodes.Node;
+import org.nodes.Node;
 
 import java.util.ArrayList;
 import java.util.List;

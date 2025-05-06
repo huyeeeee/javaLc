@@ -3,10 +3,8 @@ package org.leetcode.items.nodes;
 import com.google.common.collect.Lists;
 import org.junit.Assert;
 import org.junit.Test;
-import org.leetcode.nodes.ListNode;
-import org.leetcode.nodes.NodeUtils;
-
-import java.util.Collections;
+import org.nodes.ListNode;
+import org.nodes.NodeUtils;
 
 /**
  * @Author: hujiangping

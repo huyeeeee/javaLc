@@ -1,10 +1,9 @@
 package org.leetcode.items._001_100;
 
-import org.leetcode.nodes.TreeNode;
+import org.nodes.TreeNode;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
-import java.util.Stack;
 
 /**
  * @Author: hujiangping

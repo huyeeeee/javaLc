@@ -1,7 +1,7 @@
 package org.leetcode.items._800_900;
 
-import org.leetcode.nodes.ListNode;
-import org.leetcode.nodes.NodeUtils;
+import org.nodes.ListNode;
+import org.nodes.NodeUtils;
 
 /**
  * @Author: hujiangping

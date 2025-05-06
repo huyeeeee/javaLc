@@ -1,6 +1,6 @@
 package org.leetcode.items._001_100;
 
-import org.leetcode.nodes.ListNode;
+import org.nodes.ListNode;
 
 /**
  * @Author: hujiangping

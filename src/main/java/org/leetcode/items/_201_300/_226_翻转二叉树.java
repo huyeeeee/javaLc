@@ -1,6 +1,6 @@
 package org.leetcode.items._201_300;
 
-import org.leetcode.nodes.TreeNode;
+import org.nodes.TreeNode;
 
 /**
  * @Author: hujiangping

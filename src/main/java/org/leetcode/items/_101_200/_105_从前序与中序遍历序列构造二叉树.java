@@ -1,6 +1,6 @@
 package org.leetcode.items._101_200;
 
-import org.leetcode.nodes.TreeNode;
+import org.nodes.TreeNode;
 
 import java.util.HashMap;
 import java.util.Map;

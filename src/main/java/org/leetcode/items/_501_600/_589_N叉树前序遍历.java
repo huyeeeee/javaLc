@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
-import org.leetcode.nodes.Node;
+import org.nodes.Node;
 
 /**
  * @Author: hujiangping
